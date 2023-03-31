@@ -26,4 +26,6 @@
         // displaying area
         Console.WriteLine("Area Of Circle:  " + Decimal.Round(Convert.ToDecimal(area), 2));
     }
+    // end of Main method
 }
+// end of Circle class
